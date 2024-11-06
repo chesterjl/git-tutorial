@@ -1,3 +1,3 @@
-print("config version 12")
-print("version 12")
-print("new version 12")
+print("config version 13")
+print("version 13")
+print("clone version of local res")

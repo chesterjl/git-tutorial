@@ -1,2 +1,3 @@
-print("CHANGE TO VERSION 12")
-print("new version 12")
+print("CHANGE TO VERSION 13")
+print("new version 13")
+print("clone version of local res")
