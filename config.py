@@ -1,2 +1,3 @@
-print("config version 11")
-print("version 11")
+print("config version 12")
+print("version 12")
+print("new version 12")
